@@ -4,5 +4,5 @@ Translated from English to Japanese.
 今まで翻訳していた方々への感謝を申し上げます.
 
 # memo
-copy into Steam\steamapps\common\Necesse\locale
-run the command "/reloadlang"
+copy into Steam\steamapps\common\Necesse\locale  
+run the command "/reloadlang"  
